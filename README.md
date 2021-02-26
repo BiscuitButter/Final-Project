@@ -4,4 +4,5 @@ Our hypothesis is that there is a correlation between the Cost of Living Index a
 
 ### Sources
 https://www.census.gov/topics/population/migration/guidance.html
+
 https://www.bls.gov/developers/
