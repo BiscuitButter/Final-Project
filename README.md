@@ -2,9 +2,13 @@
 
 ## BACKGROUND 
 
-The Internal Revenue Service's (IRS) county-to-county migration data are an incredible resource for understanding migration in the United States. Produced annually since 1990 in conjunction with the US Census Bureau, the IRS migration data represent 95 to 98 percent of the tax filing universe and their dependents, making the IRS migration data one of the largest sources of migration data. However, any analysis using the IRS migration data must process at least seven legacy formats of these public data across more than 2000 data files -- a serious burden for migration scholars.
+The Internal Revenue Service's (IRS) county-to-county migration data are an incredible resource for understanding migration in the United States. 
+Data for the United States are based on year-to-year address changes reported on individual income tax returns filed with the IRS. They present migration patterns by State or by county for the entire United States and are available for inflows—the number of new residents who moved to a State or county and where they migrated from, and outflows—the number of residents leaving a State or county and where they went.
+
+Produced annually since 1991 in conjunction with the US Census Bureau, making the IRS migration data one of the largest sources of migration data. 
 
 ## HYPOTHESIS
+
 The hypothesis is that there is a correlation between the Cost of Living Index and migration flow
 
 ## EXPERIMENTAL PLAN
