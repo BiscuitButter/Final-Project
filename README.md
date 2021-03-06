@@ -12,7 +12,7 @@ By using different sources (see below), we will try to collect and clean up raw 
 The data will then be analyzed with different statistical methods in order to understand the relationship between migration flows, age, wages and taxes.
 
 Here a schematic rapresentation of our work flow.
-![image1](/Resources/1.png?raw=true "Title")
+![image1](/Resources/2.png?raw=true "Title")
 
 
 ## OneDrive Link
