@@ -19,14 +19,14 @@ Here a schematic rapresentation of our work flow.
 ![image1](/Resources/2.png?raw=true "Title")
 
 ## Results
-
-In our first analysis we cleaned the data from inflow/outflow for the years 2017/2018.
+\
+In our first analysis we cleaned the data from inflow/outflow for the years 2014-2018.
 We divided the analysis in "flow" that allowed us to understand the migration flow from one county to another, or from one state to another during the year 2017-2018.
 
-https://github.com/BiscuitButter/Final-Project/blob/main/output/flow.clean17-18.csv
+https://github.com/BiscuitButter/Final-Project/blob/main/output/flow.clean14-18.csv
 
 Moreover we add another table, called "total" that allowed us have a geneal view of the total migration flow in USA.
-https://github.com/BiscuitButter/Final-Project/blob/main/output/total.clean17-18.csv
+https://github.com/BiscuitButter/Final-Project/blob/main/output/total.clean14-18.csv
  
 
 ## OneDrive Link
