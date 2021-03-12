@@ -37,6 +37,5 @@ https://www.census.gov/topics/population/migration/guidance.html
 
 https://www.bls.gov/developers/
 
-https://www.kaggle.com/debdutta/cost-of-living-index-by-country
+https://www.unitedstateszipcodes.org/zip-code-database/
 
-https://advisorsmith.com/data/coli/
