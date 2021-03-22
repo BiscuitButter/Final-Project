@@ -19,7 +19,7 @@ Here a schematic rapresentation of our work flow.
 ![image1](/Resources/1.png?raw=true "Title")
 
 ## Results
-\
+
 In our first analysis we cleaned the data from inflow/outflow for the years 2014-2018.
 We divided the analysis in "flow" that allowed us to understand the migration flow from one county to another, or from one state to another during the year 2014-2018.
 
@@ -35,6 +35,10 @@ https://github.com/BiscuitButter/Final-Project/blob/main/output/total.clean14-18
 ![image1](/Resources/4.png?raw=true "Title")
 
 ![image1](/Resources/5.png?raw=true "Title")
+
+https://public.tableau.com/views/IRSmigration/Sheet1?:language=en&:display_count=y&:origin=viz_share_link
+
+
 ## OneDrive Link
 https://1drv.ms/u/s!AuIV9T8fNEV0kbJZIkGaITz5rzjD3g?e=T7osNj
 
