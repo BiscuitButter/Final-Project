@@ -28,7 +28,13 @@ https://github.com/BiscuitButter/Final-Project/blob/main/output/flow.clean14-18.
 Moreover we add another table, called "total" that allowed us have a geneal view of the total migration flow in USA.
 https://github.com/BiscuitButter/Final-Project/blob/main/output/total.clean14-18.csv
  
+![image1](/Resources/2.png?raw=true "Title")
 
+![image1](/Resources/3.png?raw=true "Title")
+
+![image1](/Resources/4.png?raw=true "Title")
+
+![image1](/Resources/5.png?raw=true "Title")
 ## OneDrive Link
 https://1drv.ms/u/s!AuIV9T8fNEV0kbJZIkGaITz5rzjD3g?e=T7osNj
 
@@ -38,4 +44,7 @@ https://www.census.gov/topics/population/migration/guidance.html
 https://www.bls.gov/developers/
 
 https://www.unitedstateszipcodes.org/zip-code-database/
+
+
+https://public.tableau.com/profile/valeria7815#!/vizhome/IRSmigration/Sheet1
 
