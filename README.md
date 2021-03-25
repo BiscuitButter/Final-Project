@@ -59,9 +59,7 @@ Color-coded maps showing
 
 The results do not support our hypothesis that the migration was influenced by cost of living commonly. Our analysis was done by taking in consideration  data from the 2014 and 2018.
 This analysis should be
-Additional work on this time period should focus on other potential factors e.g. job growth and political climate
-Analysis of migration flows during the COVID-19 pandemic timeframe (March 2020 to ??) may need to focus on entirely different factors, notably population density
-<img width="1658" alt="image" src="https://user-images.githubusercontent.com/71678830/112522717-56fbd700-8d74-11eb-8a30-480d0c3820d7.png">
+
 
 
 ## OneDrive Link
