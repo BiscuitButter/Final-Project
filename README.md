@@ -59,7 +59,7 @@ Color-coded maps showing
 
 The results do not support our hypothesis that the migration was influenced by cost of living commonly. Our analysis was done by taking in consideration  data from the 2014 and 2018.
 
-Our analysis could be improved if we added more variations in our analysis, such as environmental factor, city safety, east coast vs west coat.
+Our analysis could be improved if we added more variations in our analysis, such as environmental factors, city safety, east coast vs west coat.
 
 ![image1](/Resources/2.png?raw=true "Title")
 
