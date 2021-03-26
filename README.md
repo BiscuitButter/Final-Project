@@ -59,7 +59,14 @@ Color-coded maps showing
 
 The results do not support our hypothesis that the migration was influenced by cost of living commonly. Our analysis was done by taking in consideration  data from the 2014 and 2018.
 
-Our analysis could be improved if we added more variations in our analysis, such as environmental factors, city safety, east coast vs west coat.
+Our results show that the cost of living does not affect the migration choice, but other factors are taken into consideration, such as the safety of the cities, the services offered, the climatic conditions.
+
+In the images is represented below the map of the USA, where the different size of the balls indicate a greater or lesser flow of migration.
+The outgoing flow is shown in red and the incoming flow in green.
+The data were analyzed on the basis of the cost of housing in the different counties.
+
+
+If this analysis were repeated with the data fROM 2020, surely the resultS would be different. The covid will surely have influenced the migratory flow in a different way, in an uncontrollable way.
 
 ![image1](/Resources/2.png?raw=true "Title")
 
